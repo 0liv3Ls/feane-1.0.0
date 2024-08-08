@@ -1,0 +1,7 @@
+@import url("../fonts/Quench/Quench.ttf");
+body {
+  font-family: "Quench", sans-serif;
+  color: #0c0c0c;
+  background-color: #ffffff;
+  overflow-x: hidden;
+}
